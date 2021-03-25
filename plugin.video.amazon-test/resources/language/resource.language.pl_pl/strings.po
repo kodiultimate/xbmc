@@ -649,118 +649,116 @@ msgstr ""
 
 msgctxt "#30217"
 msgid "No stream hoster reachable"
-msgstr ""
+msgstr "Brak dostawcy hostingu transmisji"
 
 msgctxt "#30218"
 msgid ""
 "Due changes at Amazon's DRM encryption, it's not possible to use Inputstream for this video.\n"
 "Please configure the fallback option in Settings, to use another Playback method."
 msgstr ""
+"Ze względu na zmiany w szyfrowaniu DRM firmy Amazon nie można użyć strumienia wejściowego dla tego wideo.\n"
+"Skonfiguruj opcję awaryjną w Ustawieniach, aby użyć innej metody odtwarzania."
 
 msgctxt "#30219"
 msgid "Unable to retrieve Amazon's territorial configuration."
-msgstr ""
+msgstr "Nie można pobrać konfiguracji terytorialnej Amazon."
 
 msgctxt "#30242"
 msgid "Page {}"
-msgstr ""
+msgstr "Strona {}"
 
 msgctxt "#30243"
 msgid "Pagination"
-msgstr ""
+msgstr "Paginacja"
 
 msgctxt "#30244"
 msgid "Everything"
-msgstr ""
+msgstr "Wszystko"
 
-#, fuzzy
 msgctxt "#30245"
 msgid "Watchlist"
-msgstr "Dodaj %s do watchlist"
+msgstr "Lista 'obserwowanych'"
 
-#, fuzzy
 msgctxt "#30246"
 msgid "Collections"
-msgstr "Logowanie i dane"
+msgstr "Kolekcje"
 
-#, fuzzy
 msgctxt "#30247"
 msgid "Search"
 msgstr "Szukaj"
 
 msgctxt "#30248"
 msgid "Proxy MPD alteration"
-msgstr ""
+msgstr "Zmiana proxy MPD"
 
 msgctxt "#30249"
 msgid "Prefer episode thumbnails to posters"
-msgstr ""
+msgstr "Preferuj miniaturki seriali zamiast plakatów"
 
 msgctxt "#30250"
 msgid "PrimeVideo"
 msgstr "PrimeVideo"
 
-#, fuzzy
 msgctxt "#30251"
 msgid "Connection error"
-msgstr "Logowanie i dane"
+msgstr "Błąd połączenia"
 
 msgctxt "#30252"
 msgid "Loading page {0}…"
-msgstr ""
+msgstr "Ładuję stronę {0}…"
 
 msgctxt "#30253"
 msgid "{0} seasons"
-msgstr ""
+msgstr "{0} sezony"
 
 msgctxt "#30254"
 msgid "userinput.exe not found"
-msgstr ""
+msgstr "Nie znaleziono pliku userinput.exe"
 
 msgctxt "#30255"
 msgid "Please download it from GitHub and manually install it in the addon directory"
-msgstr ""
+msgstr "Pobierz go z GitHub i zainstaluj ręcznie w katalogu dodatków"
 
 msgctxt "#30256"
 msgid "Error: servers returned no content (check logs for more information)"
-msgstr ""
+msgstr "Błąd: serwery nie zwróciły żadnych treści (sprawdź plik log, aby uzyskać więcej informacji)"
 
 msgctxt "#30257"
 msgid "Catalog cache expiration time"
-msgstr ""
+msgstr "Czas wygaśnięcia pamięci podręcznej katalogu"
 
 msgctxt "#30258"
 msgid "1 hour"
-msgstr ""
+msgstr "1 godz."
 
 msgctxt "#30259"
 msgid "6 hours"
-msgstr ""
+msgstr "6 godz."
 
 msgctxt "#30260"
 msgid "12 hours"
-msgstr ""
+msgstr "12 godz."
 
 msgctxt "#30261"
 msgid "1 day"
-msgstr ""
+msgstr "1 dzień"
 
 msgctxt "#30262"
 msgid "3 days"
-msgstr ""
+msgstr "3 dni"
 
 msgctxt "#30263"
 msgid "7 days"
-msgstr ""
+msgstr "7 dni"
 
 msgctxt "#30264"
 msgid "15 days"
-msgstr ""
+msgstr "15 dni"
 
 msgctxt "#30265"
 msgid "30 days"
-msgstr ""
+msgstr "30 dni"
 
 msgctxt "#30266"
 msgid "Login credentials invalid, please login again."
-msgstr ""
+msgstr "Dane logowania są nieprawidłowe, zaloguj się ponownie."
